@@ -15,7 +15,7 @@ So you should return 1, because there is only one bulb is on.
 
 
 * */
-package leetcode;
+package laicode;
 
 public class BulbSwitcher {
     public int bulbSwitch(int n) {

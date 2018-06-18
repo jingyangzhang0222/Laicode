@@ -15,7 +15,7 @@ Given words = ["oath","pea","eat","rain"] and board =
 ]
 Return ["eat","oath"].
 * */
-package leetcode;
+package laicode;
 
 import java.util.ArrayList;
 import java.util.List;

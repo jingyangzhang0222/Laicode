@@ -1,4 +1,4 @@
-package leetcode;
+package laicode;
 
 public class ConsecutiveNumbersSum {
     public int consecutiveNumbersSum(int N) {

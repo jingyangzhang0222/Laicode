@@ -13,7 +13,7 @@ You may assume both pattern and str contains only lowercase letters.
 
 
 * */
-package leetcode;
+package laicode;
 
 import java.util.HashMap;
 import java.util.HashSet;

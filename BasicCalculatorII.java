@@ -14,7 +14,7 @@ Some examples:
     O(n)
     O(n)
 * */
-package leetcode;
+package laicode;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

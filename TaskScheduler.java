@@ -18,7 +18,7 @@ The integer n is in the range [0, 100].
 
 
 * */
-package leetcode;
+package laicode;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

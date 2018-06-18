@@ -7,7 +7,7 @@
 * O(1)
 * */
 
-package leetcode;
+package laicode;
 
 public class BestTimeToBuyAndSellStock2 {
     public int maxProfit(int[] prices) {

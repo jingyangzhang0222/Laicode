@@ -4,7 +4,7 @@
  the array such that the absolute difference between nums[i] and nums[j] is at most t and
  the absolute difference between i and j is at most k.
 * */
-package leetcode;
+package laicode;
 
 import java.util.TreeSet;
 

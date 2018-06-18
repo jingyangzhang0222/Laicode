@@ -13,7 +13,7 @@ Input:  “1 a”   Output: false
 
 Input:  “2e10”    Output: true
 * */
-package leetcode;
+package laicode;
 
 public class ValidNumber {
     public boolean isNumber(String s) {

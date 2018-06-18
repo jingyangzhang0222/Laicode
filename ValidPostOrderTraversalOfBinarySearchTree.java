@@ -12,7 +12,7 @@ Examples:
     O(nlogn) ~ O(n ^ 2)
     O(logn) ~ O(n)
 * */
-package leetcode;
+package laicode;
 
 public class ValidPostOrderTraversalOfBinarySearchTree {
     public boolean validPostOrder(int[] post) {

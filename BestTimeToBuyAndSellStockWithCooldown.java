@@ -14,7 +14,7 @@
              |_|     sell
 */
 
-package leetcode;
+package laicode;
 
 public class BestTimeToBuyAndSellStockWithCooldown {
     public int maxProfit(int[] prices) {

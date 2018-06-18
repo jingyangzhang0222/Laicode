@@ -60,7 +60,7 @@ Output:
     O(n)
     O(n)
 */
-package leetcode;
+package laicode;
 
 import java.util.ArrayList;
 

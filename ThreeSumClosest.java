@@ -12,7 +12,7 @@ Example
 
     typo: 0
 * */
-package leetcode;
+package laicode;
 
 import java.util.Arrays;
 

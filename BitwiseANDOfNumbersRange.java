@@ -17,7 +17,7 @@ Output: 0
     O(1)
     O(1)
 * */
-package leetcode;
+package laicode;
 
 public class BitwiseANDOfNumbersRange {
     public int rangeBitwiseAnd(int m, int n) {

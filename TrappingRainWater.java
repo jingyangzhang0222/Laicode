@@ -14,7 +14,7 @@ In this case, 6 units of rain water (blue section) are being trapped. Thanks Mar
     O(1)
 * */
 
-package leetcode;
+package laicode;
 
 public class TrappingRainWater {
     public int trapWater(int[] A) {

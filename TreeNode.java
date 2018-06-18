@@ -1,4 +1,4 @@
-package leetcode;
+package laicode;
 
 public class TreeNode {
     public int key;

@@ -10,7 +10,7 @@ Examples:
 A = {1, 2, 3, 6, 9}, target = 2, return {0, 2} since A[2] - A[0] == 2.
 A = {1, 2, 3, 6, 9}, target = -2, return {2, 0} since A[0] - A[2] == 2.
 * */
-package leetcode;
+package laicode;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -21,7 +21,7 @@ After running your function, the 2D grid should be:
 
 *
 * */
-package leetcode;
+package laicode;
 
 import java.util.ArrayDeque;
 import java.util.Arrays;

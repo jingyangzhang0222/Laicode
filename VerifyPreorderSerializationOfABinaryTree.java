@@ -31,7 +31,7 @@ Return false
     O(n)
     O(1)
 * */
-package leetcode;
+package laicode;
 
 public class VerifyPreorderSerializationOfABinaryTree {
     public static void main(String[] args) {

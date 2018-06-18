@@ -28,10 +28,12 @@ c    d
 
 
 * */
-package leetcode;
+package laicode;
+
+import leetcode.ExpNode;
 
 public class TernaryExpressionTree {
-    public ExpNode tree(String exp) {
+    public leetcode.ExpNode tree(String exp) {
         //corner case
         if (exp == null || exp.equals("")) {
             return null;

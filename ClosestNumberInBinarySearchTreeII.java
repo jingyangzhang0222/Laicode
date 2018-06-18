@@ -25,7 +25,9 @@ closest number to 6 is 6
 
 
 * */
-package leetcode;
+package laicode;
+
+import leetcode.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;

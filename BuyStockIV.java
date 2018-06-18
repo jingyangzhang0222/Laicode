@@ -7,9 +7,7 @@
  * O(k)
  *
  * */
-
-
-package leetcode;
+package laicode;
 
 import java.util.Arrays;
 

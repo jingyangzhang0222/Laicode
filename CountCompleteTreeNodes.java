@@ -2,7 +2,7 @@
 * O(n)
 * O(h)
 * */
-package leetcode;
+package laicode;
 
 public class CountCompleteTreeNodes {
     public int countNodes(TreeNode root) {

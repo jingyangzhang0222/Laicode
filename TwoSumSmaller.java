@@ -9,7 +9,7 @@ Examples
 
 A = {1, 2, 2, 4, 7}, target = 7, number of pairs is 6({1,2}, {1, 2}, {1, 4}, {2, 2}, {2, 4}, {2, 4})
 */
-package leetcode;
+package laicode;
 
 import java.util.Arrays;
 

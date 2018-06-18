@@ -17,7 +17,7 @@ Examples
 
 -1 / 0 = "NaN"
 * */
-package leetcode;
+package laicode;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -3,7 +3,7 @@
 easy
 */
 
-package leetcode;
+package laicode;
 
 import java.util.*;
 

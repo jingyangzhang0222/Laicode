@@ -1,4 +1,4 @@
-package leetcode;
+package laicode;
 
 public class ConvertBinaryTreeToDoublyLinkedList {
     public TreeNode toDoubleLinkedList(TreeNode root) {

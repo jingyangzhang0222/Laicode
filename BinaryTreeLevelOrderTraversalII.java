@@ -20,7 +20,9 @@ Example:
       [1, 4, 11],
 *
 * */
-package leetcode;
+package laicode;
+
+import leetcode.TreeNode;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

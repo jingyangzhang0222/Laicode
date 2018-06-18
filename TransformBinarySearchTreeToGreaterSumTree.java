@@ -33,7 +33,7 @@ is transformed to
 
           40
 * */
-package leetcode;
+package laicode;
 
 public class TransformBinarySearchTreeToGreaterSumTree {
     public TreeNode greaterSum(TreeNode root) {

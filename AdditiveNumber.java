@@ -26,7 +26,7 @@ Explanation: The additive sequence is: 1, 99, 100, 199.
     O()
     O()
 * */
-package leetcode;
+package laicode;
 
 public class AdditiveNumber {
     public boolean isAdditiveNumber(String num) {

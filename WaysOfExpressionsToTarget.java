@@ -14,7 +14,7 @@ Examples:
     O(N ^ 3)
     O(N ^ 2)
 * */
-package leetcode;
+package laicode;
 
 public class WaysOfExpressionsToTarget {
     public int ways(String[] e, int target) {

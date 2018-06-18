@@ -6,7 +6,7 @@
 * O(Cn_k)
 * O(k)
 * */
-package leetcode;
+package laicode;
 
 import java.util.ArrayList;
 import java.util.List;

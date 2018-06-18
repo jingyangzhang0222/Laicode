@@ -10,7 +10,7 @@ Examples:
 
 {1, 3, 2} can be divided into {1, 2} and {3}, the minimum difference is 0
 * */
-package leetcode;
+package laicode;
 
 public class TwoSubsetsWithMinDifference {
     public int minDifference(int[] array) {

@@ -13,7 +13,7 @@ A = {1, 3, 5}, B = {8, 2}, C = {3}, target = 14, return true(pick 3 from A, pick
     O(len1 * len2)
 * */
 
-package leetcode;
+package laicode;
 
 import java.util.HashSet;
 import java.util.Set;

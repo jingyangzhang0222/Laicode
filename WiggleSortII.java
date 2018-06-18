@@ -18,7 +18,7 @@ Can you do it in O(n) time and/or in-place with O(1) extra space?
 
     TODO
 * */
-package leetcode;
+package laicode;
 
 public class WiggleSortII {
     public int[] wiggleSort(int[] nums) {

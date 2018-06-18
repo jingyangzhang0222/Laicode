@@ -12,7 +12,7 @@ easy
   | | | | | | |
 */
 
-package leetcode;
+package laicode;
 
 public class ContainerWithMostWater {
     public int maxArea(int[] height) {

@@ -19,7 +19,7 @@ Note: Do not use the eval built-in library function.
 
     typo: 11 / 60
 * */
-package leetcode;
+package laicode;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

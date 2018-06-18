@@ -1,4 +1,4 @@
-package leetcode;
+package laicode;
 
 public class WildcardMatching {
     public boolean match(String input, String pattern) {

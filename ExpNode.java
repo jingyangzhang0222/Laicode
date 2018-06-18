@@ -1,4 +1,4 @@
-package leetcode;
+package laicode;
 
 public class ExpNode {
     public char symbol;

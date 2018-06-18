@@ -33,7 +33,7 @@ Output: the number of n-bit strings with adjacent bit count equal to k.
     O(n ^ 2)
     O(n ^ 2)
 * */
-package leetcode;
+package laicode;
 
 public class AdjacentBitCount {
 

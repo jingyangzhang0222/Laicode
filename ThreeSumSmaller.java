@@ -17,7 +17,7 @@ Follow up: Could you solve it in O(n2) runtime?
     O(n ^ 2)
     O(1)
 * */
-package leetcode;
+package laicode;
 
 import java.util.Arrays;
 

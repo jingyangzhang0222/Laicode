@@ -21,7 +21,9 @@ the border view =  [1, 2, 4, 9, 11, 5, 6, 8, 7, 3]
 
 1, 2, 4, 9 are the left border, 11, 5, 6, 8 are the leaf nodes, 8, 7, 3, 1 are the right border.
 * */
-package leetcode;
+package laicode;
+
+import leetcode.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;

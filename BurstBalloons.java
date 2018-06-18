@@ -20,7 +20,7 @@ Explanation: nums = [3,1,5,8] --> [3,5,8] -->   [3,8]   -->  [8]  --> []
     O(n ^ 3)
     O(n ^ 2)
 * */
-package leetcode;
+package laicode;
 
 public class BurstBalloons {
     public int maxCoins(int[] nums) {

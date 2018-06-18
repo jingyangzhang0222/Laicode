@@ -18,7 +18,7 @@ The integers in the given array are in the range of [0, 1000].
     O(n ^ 2)
     O(1)
 * */
-package leetcode;
+package laicode;
 
 import java.util.Arrays;
 
